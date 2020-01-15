@@ -1,0 +1,22 @@
+ div {
+
+     display:block;
+     text-align:center;
+    
+
+}
+body {
+    font-family: sans-serif;
+    font-size: 13px;
+}
+#searchform {
+    padding: 20px;
+}
+#searchbuttons {
+    padding: 15px;
+}
+#logo{
+    margin-top: 50px;
+    border: 50px;
+    padding-top: 150px;
+}
