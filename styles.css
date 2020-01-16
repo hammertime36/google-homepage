@@ -4,17 +4,16 @@
      text-align:center;
     }
 body {
-    font-family: sans-serif;
+    font-family: arial;
     font-size: 13px;
+    margin: 0px;
 }
 #searchform {
     padding: 20px;
-    border
 }
 #searchbuttons {
     padding: 15px;
-    background-color: ;
-}
+    }
 #logo{
     margin-top: 50px;
     border: 50px;
@@ -29,13 +28,13 @@ body {
     font-size: 13px;
     padding: 5px;
     position: relative;
-    right: 400px;
+    right: 850px;
    bottom: 360px;
    opacity: 0.75;
 }
 #Gmail-Images a {
     position: relative;
-    left: 250px;
+    left: 700px;
     bottom: 380px;
     text-decoration-line: none;
     font-family: arial;
@@ -46,7 +45,7 @@ body {
 }
 #Sign-in-button  {
     position: relative;
-    left: 350px;
+    left: 800px;
     bottom: 400px;
 }
 p {
@@ -54,10 +53,32 @@ p {
     font-size: 13px;
     color: black;
     position: relative;
-    left: 390px;
+    left: 870px;
     bottom: 50px;
     text-decoration-line: none;
 }
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+li {
+    display: inline;
+    position: relative;
+}
+li a {
+    opacity: 0.75;
+    color: black;
+    background-color:  grey;
+    text-decoration: none;
+}
+#bottom-left-nav-bar {
+float: left;
+}
+#bottom-right-nav-bar {
+float: right;
+}
+
+
 
 
     
