@@ -2,9 +2,7 @@
 
      display:block;
      text-align:center;
-    
-
-}
+    }
 body {
     font-family: sans-serif;
     font-size: 13px;
@@ -14,9 +12,27 @@ body {
 }
 #searchbuttons {
     padding: 15px;
+    background-color: ;
 }
 #logo{
     margin-top: 50px;
     border: 50px;
     padding-top: 150px;
+}
+#about-link a {
+    display: inline-block;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    color: black;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    padding: 5px;
+    position: relative;
+    right: 400px;
+   bottom: 360px;
+   opacity: 0.75;
+   
+
+    
+    
 }
