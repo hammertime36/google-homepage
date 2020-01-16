@@ -9,6 +9,7 @@ body {
 }
 #searchform {
     padding: 20px;
+    border
 }
 #searchbuttons {
     padding: 15px;
@@ -31,8 +32,32 @@ body {
     right: 400px;
    bottom: 360px;
    opacity: 0.75;
-   
+}
+#Gmail-Images a {
+    position: relative;
+    left: 250px;
+    bottom: 380px;
+    text-decoration-line: none;
+    font-family: arial;
+    font-size: 13px;
+    opacity: 0.75;
+    color: black;
+    padding: 5px;
+}
+#Sign-in-button  {
+    position: relative;
+    left: 350px;
+    bottom: 400px;
+}
+p {
+    font-family: arial;
+    font-size: 13px;
+    color: black;
+    position: relative;
+    left: 390px;
+    bottom: 50px;
+    text-decoration-line: none;
+}
+
 
     
-    
-}
